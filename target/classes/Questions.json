@@ -1,0 +1,170 @@
+[
+  {
+    "q": "How many continents are there in the world?",
+    "1": "(a) 1",
+    "2": "(b) 3",
+    "3": "(c) 5",
+    "4": "(d) 7",
+    "ans": "d"
+  },
+  {
+    "q": "Which is the largest continent in the world?",
+    "1": "(a) Europe",
+    "2": "(b) Africa",
+    "3": "(c) Asia",
+    "4": "(d) America",
+    "ans": "c"
+  },
+  {
+    "q": "Which is the mostly populated continent in the world?",
+    "1": "(a) Europe",
+    "2": "(b) Asia",
+    "3": "(c) Australia",
+    "4": "(d) America",
+    "ans": "b"
+  },
+  {
+    "q": "Which is the mostly populated country in the world?",
+    "1": "(a) India",
+    "2": "(b) China",
+    "3": "(c) USA",
+    "4": "(d) Russia",
+    "ans": "b"
+  },
+  {
+    "q": "Which is the largest country in the world?",
+    "1": "(a) India",
+    "2": "(b) China",
+    "3": "(c) USA",
+    "4": "(d) Russia",
+    "ans": "d"
+  },
+  {
+    "q": "How many oceans are there in the world?",
+    "1": "(a) 1",
+    "2": "(b) 3",
+    "3": "(c) 5",
+    "4": "(d) 7",
+    "ans": "c"
+  },
+  {
+    "q": "Which is the deepest ocean in the world?",
+    "1": "(a) Atlantic",
+    "2": "(b) Pacific",
+    "3": "(c) North",
+    "4": "(d) South",
+    "ans": "b"
+  },
+  {
+    "q": "Which is the saltiest ocean in the world?",
+    "1": "(a) Atlantic",
+    "2": "(b) Pacific",
+    "3": "(c) North",
+    "4": "(d) Indian",
+    "ans": "a"
+  },
+  {
+    "q": "Which is the biggest island in the world?",
+    "1": "(a) Maldives",
+    "2": "(b) Madagascar",
+    "3": "(c) Greenland",
+    "4": "(d) Honshu",
+    "ans": "c"
+  },
+  {
+    "q": "What is the name of the highest mountain in the world?",
+    "1": "(a) K2",
+    "2": "(b) Makalu",
+    "3": "(c) Mount Everest",
+    "4": "(d) Broad Peak",
+    "ans": "c"
+  },
+  {
+    "q": "When did the second World War start?",
+    "1": "(a) 1971",
+    "2": "(b) 1914",
+    "3": "(c) 1939",
+    "4": "(d) 1945",
+    "ans": "c"
+  },
+  {
+    "q": "Which country is famous for manufacturing cars?",
+    "1": "(a) USA",
+    "2": "(b) Japan",
+    "3": "(c) Germany",
+    "4": "(d) India",
+    "ans": "c"
+  },
+  {
+    "q": "Which country is the mostly powerful in military weapon?",
+    "1": "(a) USA",
+    "2": "(b) China",
+    "3": "(c) Germany",
+    "4": "(d) Russia",
+    "ans": "a"
+  },
+  {
+    "q": "Which country has the highest number of active military personnel in the world?",
+    "1": "(a) India",
+    "2": "(b) China",
+    "3": "(c) USA",
+    "4": "(d) Russia",
+    "ans": "b"
+  },
+  {
+    "q": "Which country does produce best quality jute in the world?",
+    "1": "(a) India",
+    "2": "(b) China",
+    "3": "(c) Pakistan",
+    "4": "(d) Bangladesh",
+    "ans": "d"
+  },
+  {
+    "q": "Which country does produce best quality coffee in the world?",
+    "1": "(a) India",
+    "2": "(b) Pakistan",
+    "3": "(c) Brazil",
+    "4": "(d) Colombia",
+    "ans": "d"
+  },
+  {
+    "q": "Which country does produce best quality Hilsa fish in the world?",
+    "1": "(a) Pakistan",
+    "2": "(b) Bangladesh",
+    "3": "(c) India",
+    "4": "(d) Nepal",
+    "ans": "b"
+  },
+  {
+    "q": "Which country is the highest milk producer in the world?",
+    "1": "(a) India",
+    "2": "(b) USA",
+    "3": "(c) Australia",
+    "4": "(d) China",
+    "ans": "a"
+  },
+  {
+    "q": "Which country does produce highest number of footballs in the world?",
+    "1": "(a) Pakistan",
+    "2": "(b) Bangladesh",
+    "3": "(c) India",
+    "4": "(d) Nepal",
+    "ans": "a"
+  },
+  {
+    "q": "Which is supposed to be has the ancient civilization?",
+    "1": "(a) China",
+    "2": "(b) Greece",
+    "3": "(c) Egypt",
+    "4": "(d) India",
+    "ans": "c"
+  },
+  {
+    "q": "Which country is the smallest in the world?",
+    "1": "(a) Maldives",
+    "2": "(b) Vatican City",
+    "3": "(c) Sri Lanka",
+    "4": "(d) Bhutan",
+    "ans": "b"
+  }
+]
